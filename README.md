@@ -12,7 +12,7 @@
 - 📫 How to reach me **achilovjavokhir@gmail.com**
 
 - ⚡ Fun fact **Today, 90% of phones run on the Android system**
-https://github-profile-trophy.vercel.app/?username=Javokhir-Ach1lov
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/javokhir_dew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javokhir_dew" height="30" width="40" /></a>
