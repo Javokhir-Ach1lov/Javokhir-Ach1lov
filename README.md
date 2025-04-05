@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻Some applications are here [pub:InnovateDev](pub:InnovateDev)
-
 - 📝 I regularly write articles on [https://t.me/JavokhirachilovBlog](https://t.me/JavokhirachilovBlog)
 
 - 💬 Ask me about **Kotlin,Java and Android studio**
 
-- 📫 How to reach me **achilovjavokhir@gmail.com**
+- 📫 How to reach me **achilovjavokhir34@gmail.com**
 
 - ⚡ Fun fact **Today, 90% of phones run on the Android system**
 
